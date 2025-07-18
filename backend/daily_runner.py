@@ -48,25 +48,37 @@ scripts = [
 ]
 
 for script in scripts:
-    spinner = console.status(f"Running {script}", spinner="dots")
-    with spinner:
-        start_time = time.time()
-        try:
-            proc = subprocess.run(["python3", f"{script}"], capture_output=True, text=True)
-            duration = time.time() - start_time
-            save_script_log(os.path.basename(script), proc.stdout + "\n" + proc.stderr)
+    log(f"▶️ Running {script}")
+    start_time = time.time()
 
-            if proc.returncode == 0:
-                console.log(f"✔️  Finished {script} in {duration:.2f}s")
-            else:
-                console.log(f"[bold red]✖ Error running {script} | Exit code: {proc.returncode}[/bold red]")
-                log(f"❌ Error running {script} | Exit code: {proc.returncode}")
-                sys.exit(1)
-        except Exception as e:
-            console.log(f"[bold red]✖ Exception in {script}: {e}[/bold red]")
-            log(f"❌ Exception in {script}: {e}")
-            traceback.print_exc()
+    try:
+        proc = subprocess.run(
+            ["python3", script],
+            capture_output=True,
+            text=True
+        )
+        duration = time.time() - start_time
+
+        # Save log output to file
+        output_log = f"\n--- STDOUT ---\n{proc.stdout}\n--- STDERR ---\n{proc.stderr}\n"
+        log_file = f"logs/script_runs/{os.path.basename(script)}__{datetime.now(local_tz).strftime('%Y-%m-%d_%H-%M-%S')}.log"
+        os.makedirs(os.path.dirname(log_file), exist_ok=True)
+        with open(log_file, "w") as f:
+            f.write(output_log)
+
+        # Display output summary
+        print(output_log)
+
+        if proc.returncode == 0:
+            log(f"✅ Finished {script} in {duration:.2f}s\n")
+        else:
+            log(f"❌ Error running {script} | Exit code: {proc.returncode}\n")
             sys.exit(1)
+
+    except Exception as e:
+        log(f"❌ Exception in {script}: {e}")
+        traceback.print_exc()
+        sys.exit(1)
 
 
 # === Apply user-flagged skipped headlines ===
