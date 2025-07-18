@@ -1,0 +1,37 @@
+name: Run Daily Sentiment Pipeline
+
+on:
+  schedule:
+    - cron: "30 11 * * *"  # Runs daily at 11:30 UTC
+  workflow_dispatch:       # Allows manual trigger
+
+jobs:
+  daily-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Daily Runner
+        run: |
+          python backend/daily_runner.py
+
+      - name: Commit Results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add backend/outputs/results/*.csv
+          git commit -m "Automated daily results - $(date)"
+          git push
+        continue-on-error: true
