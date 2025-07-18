@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "BulletSmallcaps";
+  src: url("/assets/fonts/BulletSmallcaps.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PixeloidMono";
+  src: url("/assets/fonts/PixeloidMono.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PixeloidMono";
+  src: url("/assets/fonts/Perfect DOS VGA 437 Win.ttf") format("truetype");
+  font-display: swap;
+}
+
+/* Tailwind base layer (keep this if not already present) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

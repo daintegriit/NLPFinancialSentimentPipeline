@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lucide-react": "^0.508.0",
+    "papaparse": "^5.5.2"
+  }
+}

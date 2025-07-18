@@ -1,0 +1,201 @@
+⏳ Loading FinBERT...
+⏳ Loading RoBERTa...
+✅ All models loaded.
+❌ Error processing PANW_news.csv: No columns to parse from file
+❌ Error processing BRK.B_news.csv: No columns to parse from file
+❌ Error processing PG_news.csv: No columns to parse from file
+❌ Error processing HOOD_news.csv: No columns to parse from file
+❌ Error processing BA_news.csv: No columns to parse from file
+❌ Error processing PYPL_news.csv: No columns to parse from file
+❌ Error processing BHP_news.csv: No columns to parse from file
+❌ Error processing AXP_news.csv: No columns to parse from file
+❌ Error processing T_news.csv: No columns to parse from file
+❌ Error processing ENB_news.csv: No columns to parse from file
+❌ Error processing HLT_news.csv: No columns to parse from file
+❌ Error processing BK_news.csv: No columns to parse from file
+❌ Error processing USB_news.csv: No columns to parse from file
+❌ Error processing SCHW_news.csv: No columns to parse from file
+❌ Error processing DIS_news.csv: No columns to parse from file
+❌ Error processing TSLA_news.csv: No columns to parse from file
+❌ Error processing UPST_news.csv: No columns to parse from file
+❌ Error processing MRK_news.csv: No columns to parse from file
+❌ Error processing ABNB_news.csv: No columns to parse from file
+❌ Error processing CVS_news.csv: No columns to parse from file
+❌ Error processing LULU_news.csv: No columns to parse from file
+❌ Error processing AMD_news.csv: No columns to parse from file
+❌ Error processing DELL_news.csv: No columns to parse from file
+❌ Error processing UPS_news.csv: No columns to parse from file
+❌ Error processing AAPL_news.csv: No columns to parse from file
+❌ Error processing UBER_news.csv: No columns to parse from file
+❌ Error processing MSFT_news.csv: No columns to parse from file
+❌ Error processing IBM_news.csv: No columns to parse from file
+❌ Error processing GE_news.csv: No columns to parse from file
+❌ Error processing AVAX_news.csv: No columns to parse from file
+❌ Error processing CVX_news.csv: No columns to parse from file
+❌ Error processing INTU_news.csv: No columns to parse from file
+❌ Error processing PFE_news.csv: No columns to parse from file
+❌ Error processing SONY_news.csv: No columns to parse from file
+❌ Error processing MCD_news.csv: No columns to parse from file
+❌ Error processing USDT_news.csv: No columns to parse from file
+❌ Error processing BLK_news.csv: No columns to parse from file
+❌ Error processing ADA_news.csv: No columns to parse from file
+❌ Error processing ^GSPC_news.csv: No columns to parse from file
+❌ Error processing AMZN_news.csv: No columns to parse from file
+❌ Error processing BMY_news.csv: No columns to parse from file
+❌ Error processing DDOG_news.csv: No columns to parse from file
+❌ Error processing MO_news.csv: No columns to parse from file
+❌ Error processing MCO_news.csv: No columns to parse from file
+❌ Error processing META_news.csv: No columns to parse from file
+❌ Error processing BX_news.csv: No columns to parse from file
+❌ Error processing PLTR_news.csv: No columns to parse from file
+❌ Error processing SQ_news.csv: No columns to parse from file
+❌ Error processing F_news.csv: No columns to parse from file
+❌ Error processing BABA_news.csv: No columns to parse from file
+❌ Error processing QCOM_news.csv: No columns to parse from file
+❌ Error processing WFC_news.csv: No columns to parse from file
+❌ Error processing NKE_news.csv: No columns to parse from file
+❌ Error processing SO_news.csv: No columns to parse from file
+❌ Error processing ZM_news.csv: No columns to parse from file
+❌ Error processing SNOW_news.csv: No columns to parse from file
+❌ Error processing AI_news.csv: No columns to parse from file
+❌ Error processing FTNT_news.csv: No columns to parse from file
+❌ Error processing ROKU_news.csv: No columns to parse from file
+❌ Error processing EXPE_news.csv: No columns to parse from file
+❌ Error processing FDX_news.csv: No columns to parse from file
+❌ Error processing TEAM_news.csv: No columns to parse from file
+❌ Error processing ROST_news.csv: No columns to parse from file
+❌ Error processing NSRGY_news.csv: No columns to parse from file
+❌ Error processing XOM_news.csv: No columns to parse from file
+❌ Error processing BRK-A_news.csv: No columns to parse from file
+❌ Error processing TSCO_news.csv: No columns to parse from file
+❌ Error processing KO_news.csv: No columns to parse from file
+❌ Error processing GOOGL_news.csv: No columns to parse from file
+❌ Error processing TSM_news.csv: No columns to parse from file
+❌ Error processing MCK_news.csv: No columns to parse from file
+❌ Error processing NFLX_news.csv: No columns to parse from file
+❌ Error processing DOCU_news.csv: No columns to parse from file
+❌ Error processing AVGO_news.csv: No columns to parse from file
+❌ Error processing ETH_news.csv: No columns to parse from file
+❌ Error processing EIX_news.csv: No columns to parse from file
+❌ Error processing MA_news.csv: No columns to parse from file
+❌ Error processing COST_news.csv: No columns to parse from file
+❌ Error processing PSA_news.csv: No columns to parse from file
+❌ Error processing NOC_news.csv: No columns to parse from file
+❌ Error processing GM_news.csv: No columns to parse from file
+❌ Error processing HD_news.csv: No columns to parse from file
+❌ Error processing INTC_news.csv: No columns to parse from file
+❌ Error processing PEP_news.csv: No columns to parse from file
+❌ Error processing HCA_news.csv: No columns to parse from file
+❌ Error processing V_news.csv: No columns to parse from file
+❌ Error processing GS_news.csv: No columns to parse from file
+❌ Error processing VZ_news.csv: No columns to parse from file
+❌ Error processing PATH_news.csv: No columns to parse from file
+❌ Error processing UNP_news.csv: No columns to parse from file
+❌ Error processing NOW_news.csv: No columns to parse from file
+❌ Error processing CRM_news.csv: No columns to parse from file
+❌ Error processing BRK.A_news.csv: No columns to parse from file
+❌ Error processing RY_news.csv: No columns to parse from file
+❌ Error processing SOL_news.csv: No columns to parse from file
+❌ Error processing JPM_news.csv: No columns to parse from file
+❌ Error processing TM_news.csv: No columns to parse from file
+❌ Error processing UAL_news.csv: No columns to parse from file
+❌ Error processing LMT_news.csv: No columns to parse from file
+❌ Error processing DUK_news.csv: No columns to parse from file
+❌ Error processing TCEHY_news.csv: No columns to parse from file
+❌ Error processing KHC_news.csv: No columns to parse from file
+❌ Error processing ADBE_news.csv: No columns to parse from file
+❌ Error processing BRK-B_news.csv: No columns to parse from file
+❌ Error processing CAT_news.csv: No columns to parse from file
+❌ Error processing GIS_news.csv: No columns to parse from file
+❌ Error processing SNY_news.csv: No columns to parse from file
+❌ Error processing MKC_news.csv: No columns to parse from file
+❌ Error processing PNC_news.csv: No columns to parse from file
+❌ Error processing MS_news.csv: No columns to parse from file
+❌ Error processing DOGE_news.csv: No columns to parse from file
+❌ Error processing NVDA_news.csv: No columns to parse from file
+❌ Error processing CSCO_news.csv: No columns to parse from file
+❌ Error processing SPOT_news.csv: No columns to parse from file
+❌ Error processing DOW_news.csv: No columns to parse from file
+❌ Error processing SPY_news.csv: No columns to parse from file
+❌ Error processing COIN_news.csv: No columns to parse from file
+❌ Error processing GOOG_news.csv: No columns to parse from file
+❌ Error processing RKT_news.csv: No columns to parse from file
+❌ Error processing RTX_news.csv: No columns to parse from file
+❌ Error processing MARA_news.csv: No columns to parse from file
+❌ Error processing ORCL_news.csv: No columns to parse from file
+❌ Error processing JNJ_news.csv: No columns to parse from file
+❌ Error processing BAC_news.csv: No columns to parse from file
+❌ Error processing LLY_news.csv: No columns to parse from file
+❌ Error processing PRU_news.csv: No columns to parse from file
+❌ Error processing BP_news.csv: No columns to parse from file
+❌ Error processing UNH_news.csv: No columns to parse from file
+❌ Error processing DE_news.csv: No columns to parse from file
+❌ Error processing WMT_news.csv: No columns to parse from file
+❌ Error processing BTC_news.csv: No columns to parse from file
+❌ Error processing CMSA_news.csv: No columns to parse from file
+⚠️ Skipping PG_news.csv; no 'title' column or empty.
+⚠️ Skipping HOOD_news.csv; no 'title' column or empty.
+⚠️ Skipping BA_news.csv; no 'title' column or empty.
+⚠️ Skipping ENB_news.csv; no 'title' column or empty.
+⚠️ Skipping HLT_news.csv; no 'title' column or empty.
+⚠️ Skipping USB_news.csv; no 'title' column or empty.
+⚠️ Skipping DIS_news.csv; no 'title' column or empty.
+⚠️ Skipping TSLA_news.csv; no 'title' column or empty.
+⚠️ Skipping ABNB_news.csv; no 'title' column or empty.
+⚠️ Skipping AMD_news.csv; no 'title' column or empty.
+⚠️ Skipping UPS_news.csv; no 'title' column or empty.
+⚠️ Skipping AAPL_news.csv; no 'title' column or empty.
+⚠️ Skipping MSFT_news.csv; no 'title' column or empty.
+⚠️ Skipping CVX_news.csv; no 'title' column or empty.
+⚠️ Skipping INTU_news.csv; no 'title' column or empty.
+⚠️ Skipping SONY_news.csv; no 'title' column or empty.
+⚠️ Skipping BLK_news.csv; no 'title' column or empty.
+⚠️ Skipping AMZN_news.csv; no 'title' column or empty.
+⚠️ Skipping DDOG_news.csv; no 'title' column or empty.
+⚠️ Skipping META_news.csv; no 'title' column or empty.
+⚠️ Skipping PLTR_news.csv; no 'title' column or empty.
+⚠️ Skipping SQ_news.csv; no 'title' column or empty.
+⚠️ Skipping BABA_news.csv; no 'title' column or empty.
+⚠️ Skipping QCOM_news.csv; no 'title' column or empty.
+⚠️ Skipping ZM_news.csv; no 'title' column or empty.
+⚠️ Skipping FTNT_news.csv; no 'title' column or empty.
+⚠️ Skipping FDX_news.csv; no 'title' column or empty.
+⚠️ Skipping TEAM_news.csv; no 'title' column or empty.
+⚠️ Skipping TSM_news.csv; no 'title' column or empty.
+⚠️ Skipping NFLX_news.csv; no 'title' column or empty.
+⚠️ Skipping AVGO_news.csv; no 'title' column or empty.
+⚠️ Skipping ETH_news.csv; no 'title' column or empty.
+⚠️ Skipping NOC_news.csv; no 'title' column or empty.
+⚠️ Skipping GM_news.csv; no 'title' column or empty.
+⚠️ Skipping HD_news.csv; no 'title' column or empty.
+⚠️ Skipping PEP_news.csv; no 'title' column or empty.
+⚠️ Skipping GS_news.csv; no 'title' column or empty.
+⚠️ Skipping PATH_news.csv; no 'title' column or empty.
+⚠️ Skipping NOW_news.csv; no 'title' column or empty.
+⚠️ Skipping CRM_news.csv; no 'title' column or empty.
+⚠️ Skipping SOL_news.csv; no 'title' column or empty.
+⚠️ Skipping JPM_news.csv; no 'title' column or empty.
+⚠️ Skipping TM_news.csv; no 'title' column or empty.
+⚠️ Skipping DUK_news.csv; no 'title' column or empty.
+⚠️ Skipping ADBE_news.csv; no 'title' column or empty.
+⚠️ Skipping CAT_news.csv; no 'title' column or empty.
+⚠️ Skipping GIS_news.csv; no 'title' column or empty.
+⚠️ Skipping MS_news.csv; no 'title' column or empty.
+⚠️ Skipping NVDA_news.csv; no 'title' column or empty.
+⚠️ Skipping CSCO_news.csv; no 'title' column or empty.
+⚠️ Skipping DOW_news.csv; no 'title' column or empty.
+⚠️ Skipping GOOG_news.csv; no 'title' column or empty.
+⚠️ Skipping RTX_news.csv; no 'title' column or empty.
+⚠️ Skipping MARA_news.csv; no 'title' column or empty.
+⚠️ Skipping DE_news.csv; no 'title' column or empty.
+⚠️ Skipping BTC_news.csv; no 'title' column or empty.
+🔁 Merging, deduping, and saving final per-symbol sentiment files...
+
+Device set to use mps:0
+Device set to use mps:0
+
+🔄 data/raw_news:   0%|          | 0/132 [00:00<?, ?it/s]
+🔄 data/raw_news: 100%|██████████| 132/132 [00:00<00:00, 1879.11it/s]
+
+🔄 data/fmp_news:   0%|          | 0/56 [00:00<?, ?it/s]
+🔄 data/fmp_news: 100%|██████████| 56/56 [00:00<00:00, 871.58it/s]

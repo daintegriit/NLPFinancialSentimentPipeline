@@ -1,0 +1,4 @@
+✅ nextdayclose and nextdayreturn added successfully to: outputs/results/merged_sentiment_price.csv
+
+/Users/darrylcarp/Coding/VScodeProjects/NLPFinancialNewsSentimentAnalyzer/backend/scripts/update_nextday_returns.py:19: FutureWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+  df = df.groupby('ticker', group_keys=False).apply(group_logic)

@@ -1,0 +1,9 @@
+# .gitignore
+.env
+__pycache__/
+*.sqlite
+*.pyc
+*.ipynb_checkpoints
+outputs/
+data/tmp/
+models/tmp/

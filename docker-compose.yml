@@ -1,0 +1,38 @@
+
+services:
+  backend:
+    build:
+      context: ./backend
+    container_name: NLPFinancialNewsSentimentAnalyzer-backend
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8006:8006"
+    env_file:
+      - .env
+    depends_on:
+      - db
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: NLPFinancialNewsSentimentAnalyzer-frontend
+    ports:
+      - "3006:3006"
+    depends_on:
+      - backend
+
+  db:
+    image: postgres:15
+    container_name: NLPFinancialNewsSentimentAnalyzer-db
+    environment:
+      POSTGRES_USER: geneuser
+      POSTGRES_PASSWORD: genepass
+      POSTGRES_DB: NLPFinancialNewsSentimentAnalyzer
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5436:5436"
+
+volumes:
+  postgres_data:

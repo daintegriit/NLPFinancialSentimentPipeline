@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "BulletSmallcaps";
+  src: url("/fonts/BulletSmallcaps.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PixeloidMono";
+  src: url("/fonts/PixeloidMono.ttf") format("truetype");
+  font-display: swap;
+}

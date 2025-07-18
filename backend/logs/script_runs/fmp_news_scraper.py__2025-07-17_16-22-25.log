@@ -1,0 +1,135 @@
+✅ Saved (2) total articles for AAPL ➜ data/fmp_news/AAPL_news.csv
+✅ Saved (2) total articles for MSFT ➜ data/fmp_news/MSFT_news.csv
+✅ Saved (10) total articles for TSLA ➜ data/fmp_news/TSLA_news.csv
+✅ Saved (4) total articles for AMZN ➜ data/fmp_news/AMZN_news.csv
+✅ Saved (2) total articles for NVDA ➜ data/fmp_news/NVDA_news.csv
+⚠️ No news returned for GOOGL
+✅ Saved (2) total articles for NFLX ➜ data/fmp_news/NFLX_news.csv
+✅ Saved (4) total articles for META ➜ data/fmp_news/META_news.csv
+⚠️ No news returned for INTC
+⚠️ No news returned for RKT
+⚠️ No news returned for NKE
+✅ Saved (2) total articles for BABA ➜ data/fmp_news/BABA_news.csv
+⚠️ No news returned for XOM
+⚠️ No news returned for F
+✅ Saved (2) total articles for JPM ➜ data/fmp_news/JPM_news.csv
+✅ Saved (2) total articles for AVGO ➜ data/fmp_news/AVGO_news.csv
+⚠️ No news returned for BRK.A
+⚠️ No news returned for BRK-A
+⚠️ No news returned for WMT
+⚠️ No news returned for V
+⚠️ No news returned for MA
+⚠️ No news returned for ORCL
+⚠️ No news returned for UNH
+⚠️ No news returned for JNJ
+✅ Saved (2) total articles for CVX ➜ data/fmp_news/CVX_news.csv
+⚠️ No news returned for VZ
+⚠️ No news returned for T
+⚠️ No news returned for WFC
+⚠️ No news returned for BAC
+✅ Saved (12) total articles for GM ➜ data/fmp_news/GM_news.csv
+⚠️ No news returned for KO
+✅ Saved (2) total articles for PG ➜ data/fmp_news/PG_news.csv
+❌ Error fetching news for PLTR: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=PLTR&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for CSCO: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=CSCO&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for IBM: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=IBM&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for CRM: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=CRM&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for GE: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=GE&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for AMD: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=AMD&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for DIS: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=DIS&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for MRK: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=MRK&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for PEP: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=PEP&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for BX: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=BX&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for QCOM: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=QCOM&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for BLK: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=BLK&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for PFE: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=PFE&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for GS: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=GS&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for MCD: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=MCD&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for AXP: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=AXP&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for SCHW: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=SCHW&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for CMSA: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=CMSA&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for CAT: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=CAT&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for DELL: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=DELL&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for BA: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=BA&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for UAL: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=UAL&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for BK: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=BK&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for BMY: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=BMY&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for PNC: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=PNC&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for DUK: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=DUK&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for HCA: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=HCA&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for DE: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=DE&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for UNP: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=UNP&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for CVS: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=CVS&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for USB: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=USB&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for UPS: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=UPS&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for FDX: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=FDX&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for LMT: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=LMT&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for NOC: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=NOC&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for MCK: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=MCK&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for MCO: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=MCO&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for GIS: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=GIS&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+❌ Error fetching news for PRU: 429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/api/v4/general_news?tickers=PRU&limit=10&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Saved (2) total articles for ABNB ➜ data/fmp_news/ABNB_news.csv
+✅ Saved (2) total articles for HLT ➜ data/fmp_news/HLT_news.csv
+⚠️ No news returned for COIN
+✅ Saved (2) total articles for HOOD ➜ data/fmp_news/HOOD_news.csv
+⚠️ No news returned for BRK-B
+⚠️ No news returned for BRK.B
+⚠️ No news returned for MO
+✅ Saved (8) total articles for HD ➜ data/fmp_news/HD_news.csv
+⚠️ No news returned for PSA
+⚠️ No news returned for KHC
+⚠️ No news returned for EIX
+✅ Saved (4) total articles for ENB ➜ data/fmp_news/ENB_news.csv
+✅ Saved (2) total articles for DOW ➜ data/fmp_news/DOW_news.csv
+⚠️ No news returned for SPY
+⚠️ No news returned for LLY
+⚠️ No news returned for MKC
+✅ Saved (2) total articles for INTU ➜ data/fmp_news/INTU_news.csv
+✅ Saved (6) total articles for TEAM ➜ data/fmp_news/TEAM_news.csv
+⚠️ No news returned for EXPE
+✅ Saved (2) total articles for FTNT ➜ data/fmp_news/FTNT_news.csv
+✅ Saved (4) total articles for CRM ➜ data/fmp_news/CRM_news.csv
+✅ Saved (8) total articles for TSM ➜ data/fmp_news/TSM_news.csv
+✅ Saved (6) total articles for RTX ➜ data/fmp_news/RTX_news.csv
+⚠️ No news returned for SO
+✅ Saved (14) total articles for MARA ➜ data/fmp_news/MARA_news.csv
+⚠️ No news returned for PYPL
+⚠️ No news returned for SNOW
+⚠️ No news returned for ROKU
+⚠️ No news returned for PANW
+⚠️ No news returned for LULU
+⚠️ No news returned for UBER
+✅ Saved (2) total articles for GOOG ➜ data/fmp_news/GOOG_news.csv
+✅ Saved (12) total articles for MS ➜ data/fmp_news/MS_news.csv
+⚠️ No news returned for BP
+✅ Saved (20) total articles for BTC ➜ data/fmp_news/BTC_news.csv
+✅ Saved (20) total articles for ETH ➜ data/fmp_news/ETH_news.csv
+⚠️ No news returned for ^GSPC
+✅ Saved (2) total articles for ADBE ➜ data/fmp_news/ADBE_news.csv
+⚠️ No news returned for COST
+⚠️ No news returned for TSCO
+✅ Saved (6) total articles for NOW ➜ data/fmp_news/NOW_news.csv
+⚠️ No news returned for SPOT
+✅ Saved (12) total articles for SQ ➜ data/fmp_news/SQ_news.csv
+✅ Saved (8) total articles for ZM ➜ data/fmp_news/ZM_news.csv
+✅ Saved (2) total articles for DDOG ➜ data/fmp_news/DDOG_news.csv
+⚠️ No news returned for DOCU
+⚠️ No news returned for ROST
+⚠️ No news returned for BHP
+⚠️ No news returned for NSRGY
+✅ Saved (16) total articles for TM ➜ data/fmp_news/TM_news.csv
+⚠️ No news returned for SNY
+⚠️ No news returned for RY
+⚠️ No news returned for TCEHY
+✅ Saved (2) total articles for SONY ➜ data/fmp_news/SONY_news.csv
+✅ Saved (4) total articles for SOL ➜ data/fmp_news/SOL_news.csv
+⚠️ No news returned for ADA
+⚠️ No news returned for DOGE
+⚠️ No news returned for AVAX
+⚠️ No news returned for USDT
+⚠️ No news returned for AI
+✅ Saved (4) total articles for PATH ➜ data/fmp_news/PATH_news.csv
+⚠️ No news returned for SNOW
+⚠️ No news returned for UPST
+

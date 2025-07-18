@@ -1,0 +1,657 @@
+🔍 Fetching FMP data for CSCO from 2024-11-11 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/CSCO?from=2024-11-11&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 169 rows of price data for CSCO
+⚠️ CSCO has 5 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_CSCO.csv
+🔍 Fetching FMP data for BRK-B from 2025-02-24 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/BRK-B?from=2025-02-24&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 100 rows of price data for BRK-B
+⚠️ BRK-B has 26 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_BRK-B.csv
+🔍 Fetching FMP data for KO from 2025-01-14 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/KO?from=2025-01-14&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 127 rows of price data for KO
+⚠️ KO has 41 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_KO.csv
+🔍 Fetching FMP data for GS from 2025-06-27 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/GS?from=2025-06-27&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 14 rows of price data for GS
+⚠️ GS has 23 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_GS.csv
+🔍 Fetching FMP data for KHC from 2024-11-29 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/KHC?from=2024-11-29&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 156 rows of price data for KHC
+⚠️ KHC has 11 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_KHC.csv
+🔍 Fetching FMP data for PLTR from 2025-05-05 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/PLTR?from=2025-05-05&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 51 rows of price data for PLTR
+⚠️ PLTR has 12 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_PLTR.csv
+🔍 Fetching FMP data for JNJ from 2025-04-15 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/JNJ?from=2025-04-15&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 64 rows of price data for JNJ
+⚠️ JNJ has 16 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_JNJ.csv
+🔍 Fetching FMP data for META from 2025-05-01 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/META?from=2025-05-01&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 53 rows of price data for META
+⚠️ META has 27 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_META.csv
+🔍 Fetching FMP data for ADBE from 2024-09-10 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/ADBE?from=2024-09-10&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 213 rows of price data for ADBE
+⚠️ ADBE has 6 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_ADBE.csv
+🔍 Fetching FMP data for NOW from 2025-04-09 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/NOW?from=2025-04-09&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 68 rows of price data for NOW
+⚠️ NOW has 11 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_NOW.csv
+🔍 Fetching FMP data for ETH from 2025-07-07 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/ETH?from=2025-07-07&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 9 rows of price data for ETH
+⚠️ ETH has 28 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_ETH.csv
+🔍 Fetching FMP data for SNOW from 2024-11-20 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/SNOW?from=2024-11-20&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 162 rows of price data for SNOW
+⚠️ SNOW has 12 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_SNOW.csv
+🔍 Fetching FMP data for MKC from 2015-06-05 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/MKC?from=2015-06-05&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 2544 rows of price data for MKC
+⚠️ MKC has 9 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_MKC.csv
+🔍 Fetching FMP data for DOCU from 2024-12-05 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/DOCU?from=2024-12-05&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 152 rows of price data for DOCU
+⚠️ DOCU has 10 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_DOCU.csv
+🔍 Fetching FMP data for MRK from 2024-10-17 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/MRK?from=2024-10-17&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 186 rows of price data for MRK
+⚠️ MRK has 10 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_MRK.csv
+🔍 Fetching FMP data for UAL from 2025-03-19 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/UAL?from=2025-03-19&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 83 rows of price data for UAL
+⚠️ UAL has 9 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_UAL.csv
+🔍 Fetching FMP data for EIX from 2024-12-19 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/EIX?from=2024-12-19&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 142 rows of price data for EIX
+⚠️ EIX has 10 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_EIX.csv
+🔍 Fetching FMP data for RTX from 2012-09-14 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/RTX?from=2012-09-14&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 3227 rows of price data for RTX
+⚠️ RTX has 5 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_RTX.csv
+🔍 Fetching FMP data for NVDA from 2025-05-28 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/NVDA?from=2025-05-28&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 35 rows of price data for NVDA
+⚠️ NVDA has 16 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_NVDA.csv
+🔍 Fetching FMP data for ABNB from 2024-09-23 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/ABNB?from=2024-09-23&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 204 rows of price data for ABNB
+⚠️ ABNB has 7 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_ABNB.csv
+🔍 Fetching FMP data for MCD from 2024-10-29 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/MCD?from=2024-10-29&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 178 rows of price data for MCD
+⚠️ MCD has 10 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_MCD.csv
+🔍 Fetching FMP data for SQ from 2024-11-07 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/SQ?from=2024-11-07&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 86 rows of price data for SQ
+⚠️ SQ has 84 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_SQ.csv
+🔍 Fetching FMP data for GE from 2024-04-02 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/GE?from=2024-04-02&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 324 rows of price data for GE
+⚠️ GE has 10 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_GE.csv
+🔍 Fetching FMP data for MO from 2024-09-28 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/MO?from=2024-09-28&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 199 rows of price data for MO
+⚠️ MO has 19 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_MO.csv
+🔍 Fetching FMP data for SONY from 2024-10-09 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/SONY?from=2024-10-09&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 192 rows of price data for SONY
+⚠️ SONY has 11 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_SONY.csv
+🔍 Fetching FMP data for UNH from 2025-04-17 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/UNH?from=2025-04-17&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 62 rows of price data for UNH
+⚠️ UNH has 11 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_UNH.csv
+🔍 Fetching FMP data for AVGO from 2025-04-21 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/AVGO?from=2025-04-21&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 61 rows of price data for AVGO
+⚠️ AVGO has 15 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_AVGO.csv
+🔍 Fetching FMP data for BABA from 2025-04-21 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/BABA?from=2025-04-21&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 61 rows of price data for BABA
+⚠️ BABA has 21 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_BABA.csv
+🔍 Fetching FMP data for BRK-A from 2025-03-06 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/BRK-A?from=2025-03-06&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 92 rows of price data for BRK-A
+⚠️ BRK-A has 28 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_BRK-A.csv
+🔍 Fetching FMP data for BK from 2024-11-19 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/BK?from=2024-11-19&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 163 rows of price data for BK
+⚠️ BK has 11 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_BK.csv
+🔍 Fetching FMP data for RKT from 2025-03-10 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/RKT?from=2025-03-10&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 90 rows of price data for RKT
+⚠️ RKT has 8 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_RKT.csv
+🔍 Fetching FMP data for HCA from 2022-10-21 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/HCA?from=2022-10-21&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 685 rows of price data for HCA
+⚠️ HCA has 11 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_HCA.csv
+🔍 Fetching FMP data for XOM from 2024-08-26 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/XOM?from=2024-08-26&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 223 rows of price data for XOM
+⚠️ XOM has 9 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_XOM.csv
+🔍 Fetching FMP data for HLT from 1988-03-31 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/HLT?from=1988-03-31&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 2915 rows of price data for HLT
+⚠️ HLT has 5 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_HLT.csv
+🔍 Fetching FMP data for NSRGY from 2024-09-18 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/NSRGY?from=2024-09-18&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 207 rows of price data for NSRGY
+⚠️ NSRGY has 18 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_NSRGY.csv
+🔍 Fetching FMP data for BA from 2025-04-23 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/BA?from=2025-04-23&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 59 rows of price data for BA
+⚠️ BA has 13 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_BA.csv
+🔍 Fetching FMP data for GOOGL from 2023-08-08 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/GOOGL?from=2023-08-08&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 487 rows of price data for GOOGL
+⚠️ GOOGL has 20 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_GOOGL.csv
+🔍 Fetching FMP data for FTNT from 2024-10-08 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/FTNT?from=2024-10-08&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 193 rows of price data for FTNT
+⚠️ FTNT has 4 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_FTNT.csv
+🔍 Fetching FMP data for BRK-B from 2025-02-24 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/BRK-B?from=2025-02-24&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 100 rows of price data for BRK-B
+⚠️ BRK-B has 26 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_BRK-B.csv
+🔍 Fetching FMP data for PSA from 2013-12-19 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/PSA?from=2013-12-19&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 2910 rows of price data for PSA
+⚠️ PSA has 13 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_PSA.csv
+🔍 Fetching FMP data for INTU from 2024-09-26 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/INTU?from=2024-09-26&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 201 rows of price data for INTU
+⚠️ INTU has 9 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_INTU.csv
+🔍 Fetching FMP data for PG from 2024-10-19 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/PG?from=2024-10-19&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 184 rows of price data for PG
+⚠️ PG has 11 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_PG.csv
+🔍 Fetching FMP data for ZM from 2024-07-24 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/ZM?from=2024-07-24&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 246 rows of price data for ZM
+⚠️ ZM has 7 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_ZM.csv
+🔍 Fetching FMP data for BP from 2024-09-07 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/BP?from=2024-09-07&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 214 rows of price data for BP
+⚠️ BP has 16 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_BP.csv
+🔍 Fetching FMP data for PNC from 2025-01-14 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/PNC?from=2025-01-14&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 127 rows of price data for PNC
+⚠️ PNC has 25 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_PNC.csv
+🔍 Fetching FMP data for ^GSPC from 2025-06-27 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/^GSPC?from=2025-06-27&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 14 rows of price data for ^GSPC
+⚠️ ^GSPC has 8 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_^GSPC.csv
+🔍 Fetching FMP data for F from 2024-11-20 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/F?from=2024-11-20&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 162 rows of price data for F
+⚠️ F has 16 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_F.csv
+🔍 Fetching FMP data for CVS from 2025-01-29 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/CVS?from=2025-01-29&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 117 rows of price data for CVS
+⚠️ CVS has 18 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_CVS.csv
+🔍 Fetching FMP data for SOL from 2025-06-22 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/SOL?from=2025-06-22&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 18 rows of price data for SOL
+⚠️ SOL has 9 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_SOL.csv
+🔍 Fetching FMP data for PATH from 2024-12-14 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/PATH?from=2024-12-14&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 145 rows of price data for PATH
+⚠️ PATH has 8 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_PATH.csv
+🔍 Fetching FMP data for CMSA from 2009-06-05 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/CMSA?from=2009-06-05&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 1848 rows of price data for CMSA
+⚠️ CMSA has 7 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_CMSA.csv
+🔍 Fetching FMP data for MA from 2024-12-26 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/MA?from=2024-12-26&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 138 rows of price data for MA
+⚠️ MA has 6 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_MA.csv
+🔍 Fetching FMP data for WFC from 2025-05-05 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/WFC?from=2025-05-05&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 51 rows of price data for WFC
+⚠️ WFC has 5 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_WFC.csv
+🔍 Fetching FMP data for INTC from 2025-04-14 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/INTC?from=2025-04-14&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 65 rows of price data for INTC
+⚠️ INTC has 16 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_INTC.csv
+🔍 Fetching FMP data for DE from 2014-11-26 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/DE?from=2014-11-26&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 2674 rows of price data for DE
+⚠️ DE has 6 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_DE.csv
+🔍 Fetching FMP data for DELL from 2024-12-17 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/DELL?from=2024-12-17&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 144 rows of price data for DELL
+⚠️ DELL has 12 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_DELL.csv
+🔍 Fetching FMP data for NFLX from 2025-04-17 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/NFLX?from=2025-04-17&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 62 rows of price data for NFLX
+⚠️ NFLX has 15 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_NFLX.csv
+🔍 Fetching FMP data for NKE from 2025-06-12 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/NKE?from=2025-06-12&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 24 rows of price data for NKE
+⚠️ NKE has 16 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_NKE.csv
+🔍 Fetching FMP data for UNP from 2024-08-06 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/UNP?from=2024-08-06&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 237 rows of price data for UNP
+⚠️ UNP has 9 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_UNP.csv
+🔍 Fetching FMP data for TM from 2024-10-03 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/TM?from=2024-10-03&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 196 rows of price data for TM
+⚠️ TM has 13 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_TM.csv
+🔍 Fetching FMP data for ADA from 2025-05-21 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/ADA?from=2025-05-21&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+⚠️ No stock data returned for ADA (empty response).
+⚠️ Skipping ADA: No stock data to merge.
+🔍 Fetching FMP data for MSFT from 2024-10-30 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/MSFT?from=2024-10-30&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 177 rows of price data for MSFT
+⚠️ MSFT has 5 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_MSFT.csv
+🔍 Fetching FMP data for AMZN from 2025-02-06 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/AMZN?from=2025-02-06&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 111 rows of price data for AMZN
+⚠️ AMZN has 15 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_AMZN.csv
+🔍 Fetching FMP data for DUK from 2024-10-03 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/DUK?from=2024-10-03&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 196 rows of price data for DUK
+⚠️ DUK has 8 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_DUK.csv
+🔍 Fetching FMP data for T from 2024-10-23 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/T?from=2024-10-23&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 182 rows of price data for T
+⚠️ T has 23 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_T.csv
+🔍 Fetching FMP data for TSM from 2025-04-09 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/TSM?from=2025-04-09&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 68 rows of price data for TSM
+⚠️ TSM has 28 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_TSM.csv
+🔍 Fetching FMP data for GIS from 2024-11-22 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/GIS?from=2024-11-22&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 160 rows of price data for GIS
+⚠️ GIS has 14 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_GIS.csv
+🔍 Fetching FMP data for SNY from 2024-09-23 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/SNY?from=2024-09-23&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 204 rows of price data for SNY
+⚠️ SNY has 10 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_SNY.csv
+🔍 Fetching FMP data for BRK-A from 2025-03-06 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/BRK-A?from=2025-03-06&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 92 rows of price data for BRK-A
+⚠️ BRK-A has 28 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_BRK-A.csv
+🔍 Fetching FMP data for AAPL from 2025-02-24 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/AAPL?from=2025-02-24&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 100 rows of price data for AAPL
+⚠️ AAPL has 19 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_AAPL.csv
+🔍 Fetching FMP data for BAC from 2025-06-20 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/BAC?from=2025-06-20&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 19 rows of price data for BAC
+⚠️ BAC has 12 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_BAC.csv
+🔍 Fetching FMP data for MS from 2025-01-22 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/MS?from=2025-01-22&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 122 rows of price data for MS
+⚠️ MS has 5 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_MS.csv
+🔍 Fetching FMP data for DOGE from 2025-06-22 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/DOGE?from=2025-06-22&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+⚠️ No stock data returned for DOGE (empty response).
+⚠️ Skipping DOGE: No stock data to merge.
+🔍 Fetching FMP data for GOOG from 2017-07-20 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/GOOG?from=2017-07-20&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 2009 rows of price data for GOOG
+⚠️ GOOG has 20 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_GOOG.csv
+🔍 Fetching FMP data for PRU from 2024-08-01 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/PRU?from=2024-08-01&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 240 rows of price data for PRU
+⚠️ PRU has 6 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_PRU.csv
+🔍 Fetching FMP data for AXP from 2024-10-18 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/AXP?from=2024-10-18&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 185 rows of price data for AXP
+⚠️ AXP has 27 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_AXP.csv
+🔍 Fetching FMP data for BHP from 2024-07-30 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/BHP?from=2024-07-30&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 242 rows of price data for BHP
+⚠️ BHP has 15 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_BHP.csv
+🔍 Fetching FMP data for PFE from 2024-10-14 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/PFE?from=2024-10-14&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 189 rows of price data for PFE
+⚠️ PFE has 8 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_PFE.csv
+🔍 Fetching FMP data for COST from 2025-01-20 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/COST?from=2025-01-20&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 123 rows of price data for COST
+⚠️ COST has 25 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_COST.csv
+🔍 Fetching FMP data for GM from 2024-12-10 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/GM?from=2024-12-10&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 149 rows of price data for GM
+⚠️ GM has 8 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_GM.csv
+🔍 Fetching FMP data for CRM from 2024-12-04 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/CRM?from=2024-12-04&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 153 rows of price data for CRM
+⚠️ CRM has 13 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_CRM.csv
+🔍 Fetching FMP data for USB from 2024-12-07 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/USB?from=2024-12-07&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 150 rows of price data for USB
+⚠️ USB has 23 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_USB.csv
+🔍 Fetching FMP data for UBER from 2025-01-06 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/UBER?from=2025-01-06&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 132 rows of price data for UBER
+⚠️ UBER has 5 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_UBER.csv
+🔍 Fetching FMP data for LMT from 2024-12-27 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/LMT?from=2024-12-27&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 137 rows of price data for LMT
+⚠️ LMT has 15 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_LMT.csv
+🔍 Fetching FMP data for TCEHY from 2024-09-30 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/TCEHY?from=2024-09-30&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 199 rows of price data for TCEHY
+⚠️ TCEHY has 6 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_TCEHY.csv
+🔍 Fetching FMP data for HOOD from 2025-06-03 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/HOOD?from=2025-06-03&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 31 rows of price data for HOOD
+⚠️ HOOD has 16 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_HOOD.csv
+🔍 Fetching FMP data for SO from 2024-07-29 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/SO?from=2024-07-29&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 243 rows of price data for SO
+⚠️ SO has 8 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_SO.csv
+🔍 Fetching FMP data for AI from 2024-09-04 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/AI?from=2024-09-04&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 217 rows of price data for AI
+⚠️ AI has 18 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_AI.csv
+🔍 Fetching FMP data for V from 2025-01-25 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/V?from=2025-01-25&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 119 rows of price data for V
+⚠️ V has 14 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_V.csv
+🔍 Fetching FMP data for BMY from 2024-10-11 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/BMY?from=2024-10-11&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 190 rows of price data for BMY
+⚠️ BMY has 9 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_BMY.csv
+🔍 Fetching FMP data for SPOT from 2024-11-12 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/SPOT?from=2024-11-12&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 168 rows of price data for SPOT
+⚠️ SPOT has 4 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_SPOT.csv
+🔍 Fetching FMP data for ORCL from 2025-03-03 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/ORCL?from=2025-03-03&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 95 rows of price data for ORCL
+⚠️ ORCL has 8 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_ORCL.csv
+🔍 Fetching FMP data for BLK from 2025-06-12 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/BLK?from=2025-06-12&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 24 rows of price data for BLK
+⚠️ BLK has 7 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_BLK.csv
+🔍 Fetching FMP data for ENB from 2024-12-03 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/ENB?from=2024-12-03&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 154 rows of price data for ENB
+⚠️ ENB has 17 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_ENB.csv
+🔍 Fetching FMP data for MARA from 2024-07-23 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/MARA?from=2024-07-23&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 247 rows of price data for MARA
+⚠️ MARA has 15 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_MARA.csv
+🔍 Fetching FMP data for ROKU from 2024-10-31 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/ROKU?from=2024-10-31&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 176 rows of price data for ROKU
+⚠️ ROKU has 17 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_ROKU.csv
+🔍 Fetching FMP data for EXPE from 2024-08-09 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/EXPE?from=2024-08-09&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 234 rows of price data for EXPE
+⚠️ EXPE has 5 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_EXPE.csv
+🔍 Fetching FMP data for RY from 2024-11-10 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/RY?from=2024-11-10&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 169 rows of price data for RY
+⚠️ RY has 11 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_RY.csv
+🔍 Fetching FMP data for MCK from 2015-06-15 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/MCK?from=2015-06-15&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 2538 rows of price data for MCK
+⚠️ MCK has 6 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_MCK.csv
+🔍 Fetching FMP data for BTC from 2025-07-03 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/BTC?from=2025-07-03&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 10 rows of price data for BTC
+⚠️ BTC has 25 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_BTC.csv
+🔍 Fetching FMP data for AMD from 2025-06-13 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/AMD?from=2025-06-13&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 23 rows of price data for AMD
+⚠️ AMD has 16 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_AMD.csv
+🔍 Fetching FMP data for TSLA from 2025-06-23 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/TSLA?from=2025-06-23&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 18 rows of price data for TSLA
+⚠️ TSLA has 8 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_TSLA.csv
+🔍 Fetching FMP data for JPM from 2025-03-18 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/JPM?from=2025-03-18&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 84 rows of price data for JPM
+⚠️ JPM has 10 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_JPM.csv
+🔍 Fetching FMP data for MCO from 2024-09-08 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/MCO?from=2024-09-08&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 214 rows of price data for MCO
+⚠️ MCO has 15 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_MCO.csv
+🔍 Fetching FMP data for IBM from 2024-12-23 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/IBM?from=2024-12-23&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 140 rows of price data for IBM
+⚠️ IBM has 10 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_IBM.csv
+🔍 Fetching FMP data for CVX from 2024-10-21 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/CVX?from=2024-10-21&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 184 rows of price data for CVX
+⚠️ CVX has 14 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_CVX.csv
+🔍 Fetching FMP data for PYPL from 2025-02-04 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/PYPL?from=2025-02-04&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 113 rows of price data for PYPL
+⚠️ PYPL has 13 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_PYPL.csv
+🔍 Fetching FMP data for UPS from 2024-10-21 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/UPS?from=2024-10-21&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 184 rows of price data for UPS
+⚠️ UPS has 19 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_UPS.csv
+🔍 Fetching FMP data for DIS from 2025-01-10 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/DIS?from=2025-01-10&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 129 rows of price data for DIS
+⚠️ DIS has 5 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_DIS.csv
+🔍 Fetching FMP data for QCOM from 2025-02-04 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/QCOM?from=2025-02-04&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 113 rows of price data for QCOM
+⚠️ QCOM has 11 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_QCOM.csv
+🔍 Fetching FMP data for TSCO from 2024-10-31 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/TSCO?from=2024-10-31&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 176 rows of price data for TSCO
+⚠️ TSCO has 30 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_TSCO.csv
+🔍 Fetching FMP data for COIN from 2025-05-08 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/COIN?from=2025-05-08&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 48 rows of price data for COIN
+⚠️ COIN has 11 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_COIN.csv
+🔍 Fetching FMP data for AVAX from 2024-08-22 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/AVAX?from=2024-08-22&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+⚠️ No stock data returned for AVAX (empty response).
+⚠️ Skipping AVAX: No stock data to merge.
+🔍 Fetching FMP data for DDOG from 2025-06-18 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/DDOG?from=2025-06-18&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 20 rows of price data for DDOG
+⚠️ DDOG has 21 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_DDOG.csv
+🔍 Fetching FMP data for VZ from 2025-01-08 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/VZ?from=2025-01-08&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 130 rows of price data for VZ
+⚠️ VZ has 23 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_VZ.csv
+🔍 Fetching FMP data for PEP from 2025-03-17 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/PEP?from=2025-03-17&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 85 rows of price data for PEP
+⚠️ PEP has 20 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_PEP.csv
+🔍 Fetching FMP data for CAT from 2024-09-26 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/CAT?from=2024-09-26&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 201 rows of price data for CAT
+⚠️ CAT has 10 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_CAT.csv
+🔍 Fetching FMP data for TEAM from 2024-10-11 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/TEAM?from=2024-10-11&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 190 rows of price data for TEAM
+⚠️ TEAM has 8 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_TEAM.csv
+🔍 Fetching FMP data for HD from 2024-11-12 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/HD?from=2024-11-12&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 168 rows of price data for HD
+⚠️ HD has 19 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_HD.csv
+🔍 Fetching FMP data for SCHW from 2025-01-21 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/SCHW?from=2025-01-21&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 123 rows of price data for SCHW
+⚠️ SCHW has 20 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_SCHW.csv
+🔍 Fetching FMP data for FDX from 2024-12-18 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/FDX?from=2024-12-18&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 143 rows of price data for FDX
+⚠️ FDX has 16 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_FDX.csv
+🔍 Fetching FMP data for USDT from 2024-10-31 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/USDT?from=2024-10-31&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+⚠️ No stock data returned for USDT (empty response).
+⚠️ Skipping USDT: No stock data to merge.
+🔍 Fetching FMP data for WMT from 2025-02-19 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/WMT?from=2025-02-19&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 103 rows of price data for WMT
+⚠️ WMT has 17 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_WMT.csv
+🔍 Fetching FMP data for NOC from 2024-11-05 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/NOC?from=2024-11-05&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 173 rows of price data for NOC
+⚠️ NOC has 19 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_NOC.csv
+🔍 Fetching FMP data for PANW from 2025-01-08 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/PANW?from=2025-01-08&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 130 rows of price data for PANW
+⚠️ PANW has 15 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_PANW.csv
+🔍 Fetching FMP data for LLY from 2025-01-14 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/LLY?from=2025-01-14&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 127 rows of price data for LLY
+⚠️ LLY has 12 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_LLY.csv
+🔍 Fetching FMP data for LULU from 2025-01-09 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/LULU?from=2025-01-09&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 129 rows of price data for LULU
+⚠️ LULU has 17 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_LULU.csv
+🔍 Fetching FMP data for UPST from 2024-12-02 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/UPST?from=2024-12-02&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 155 rows of price data for UPST
+⚠️ UPST has 11 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_UPST.csv
+🔍 Fetching FMP data for SPY from 2025-06-27 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/SPY?from=2025-06-27&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 14 rows of price data for SPY
+⚠️ SPY has 11 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_SPY.csv
+🔍 Fetching FMP data for BX from 2024-09-24 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/BX?from=2024-09-24&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 203 rows of price data for BX
+⚠️ BX has 11 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_BX.csv
+🔍 Fetching FMP data for DOW from 2025-03-13 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/DOW?from=2025-03-13&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 87 rows of price data for DOW
+⚠️ DOW has 14 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_DOW.csv
+🔍 Fetching FMP data for ROST from 2024-11-21 to 2025-07-17
+🌐 URL: https://financialmodelingprep.com/api/v3/historical-price-full/ROST?from=2024-11-21&to=2025-07-17&apikey=toaWgxOyeTvuhdCtTG1CDFK0tAdpAnSB
+✅ Fetched 161 rows of price data for ROST
+⚠️ ROST has 12 rows with missing return data.
+✅ Merged and saved: outputs/results/merged/merged_ROST.csv
+

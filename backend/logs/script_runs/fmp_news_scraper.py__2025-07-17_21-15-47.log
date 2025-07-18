@@ -1,0 +1,111 @@
+✅ Saved (2) total articles for AAPL ➜ data/fmp_news/AAPL_news.csv
+✅ Saved (2) total articles for MSFT ➜ data/fmp_news/MSFT_news.csv
+✅ Saved (10) total articles for TSLA ➜ data/fmp_news/TSLA_news.csv
+✅ Saved (4) total articles for AMZN ➜ data/fmp_news/AMZN_news.csv
+✅ Saved (2) total articles for NVDA ➜ data/fmp_news/NVDA_news.csv
+⚠️ No news returned for GOOGL
+✅ Saved (2) total articles for NFLX ➜ data/fmp_news/NFLX_news.csv
+✅ Saved (4) total articles for META ➜ data/fmp_news/META_news.csv
+⚠️ No news returned for INTC
+⚠️ No news returned for RKT
+⚠️ No news returned for NKE
+✅ Saved (2) total articles for BABA ➜ data/fmp_news/BABA_news.csv
+⚠️ No news returned for XOM
+⚠️ No news returned for F
+✅ Saved (2) total articles for JPM ➜ data/fmp_news/JPM_news.csv
+✅ Saved (2) total articles for AVGO ➜ data/fmp_news/AVGO_news.csv
+⚠️ No news returned for BRK.A
+⚠️ No news returned for BRK-A
+⚠️ No news returned for WMT
+⚠️ No news returned for V
+⚠️ No news returned for MA
+⚠️ No news returned for ORCL
+⚠️ No news returned for UNH
+⚠️ No news returned for JNJ
+✅ Saved (2) total articles for CVX ➜ data/fmp_news/CVX_news.csv
+⚠️ No news returned for VZ
+⚠️ No news returned for T
+⚠️ No news returned for WFC
+⚠️ No news returned for BAC
+✅ Saved (12) total articles for GM ➜ data/fmp_news/GM_news.csv
+⚠️ No news returned for KO
+✅ Saved (2) total articles for PG ➜ data/fmp_news/PG_news.csv
+✅ Saved (10) total articles for PLTR ➜ data/fmp_news/PLTR_news.csv
+✅ Saved (4) total articles for CSCO ➜ data/fmp_news/CSCO_news.csv
+⚠️ No news returned for IBM
+✅ Saved (4) total articles for CRM ➜ data/fmp_news/CRM_news.csv
+⚠️ No news returned for GE
+✅ Saved (18) total articles for AMD ➜ data/fmp_news/AMD_news.csv
+✅ Saved (2) total articles for DIS ➜ data/fmp_news/DIS_news.csv
+⚠️ No news returned for MRK
+✅ Saved (2) total articles for PEP ➜ data/fmp_news/PEP_news.csv
+⚠️ No news returned for BX
+✅ Saved (2) total articles for QCOM ➜ data/fmp_news/QCOM_news.csv
+✅ Saved (8) total articles for BLK ➜ data/fmp_news/BLK_news.csv
+⚠️ No news returned for PFE
+✅ Saved (2) total articles for GS ➜ data/fmp_news/GS_news.csv
+⚠️ No news returned for MCD
+⚠️ No news returned for AXP
+⚠️ No news returned for SCHW
+⚠️ No news returned for CMSA
+✅ Saved (4) total articles for CAT ➜ data/fmp_news/CAT_news.csv
+⚠️ No news returned for DELL
+✅ Saved (6) total articles for BA ➜ data/fmp_news/BA_news.csv
+⚠️ No news returned for UAL
+⚠️ No news returned for BK
+⚠️ No news returned for BMY
+⚠️ No news returned for PNC
+✅ Saved (2) total articles for DUK ➜ data/fmp_news/DUK_news.csv
+⚠️ No news returned for HCA
+✅ Saved (6) total articles for DE ➜ data/fmp_news/DE_news.csv
+⚠️ No news returned for UNP
+⚠️ No news returned for CVS
+✅ Saved (2) total articles for USB ➜ data/fmp_news/USB_news.csv
+✅ Saved (4) total articles for UPS ➜ data/fmp_news/UPS_news.csv
+✅ Saved (2) total articles for FDX ➜ data/fmp_news/FDX_news.csv
+⚠️ No news returned for LMT
+✅ Saved (6) total articles for NOC ➜ data/fmp_news/NOC_news.csv
+⚠️ No news returned for MCK
+⚠️ No news returned for MCO
+✅ Saved (2) total articles for GIS ➜ data/fmp_news/GIS_news.csv
+⚠️ No news returned for PRU
+✅ Saved (2) total articles for ABNB ➜ data/fmp_news/ABNB_news.csv
+✅ Saved (2) total articles for HLT ➜ data/fmp_news/HLT_news.csv
+⚠️ No news returned for COIN
+✅ Saved (2) total articles for HOOD ➜ data/fmp_news/HOOD_news.csv
+⚠️ No news returned for BRK-B
+⚠️ No news returned for BRK.B
+⚠️ No news returned for MO
+✅ Saved (8) total articles for HD ➜ data/fmp_news/HD_news.csv
+⚠️ No news returned for PSA
+⚠️ No news returned for KHC
+⚠️ No news returned for EIX
+✅ Saved (4) total articles for ENB ➜ data/fmp_news/ENB_news.csv
+✅ Saved (2) total articles for DOW ➜ data/fmp_news/DOW_news.csv
+⚠️ No news returned for SPY
+⚠️ No news returned for LLY
+⚠️ No news returned for MKC
+
+Traceback (most recent call last):
+  File "/app/scripts/fmp_news_scraper.py", line 85, in <module>
+    clean_and_save(df, ticker)
+  File "/app/scripts/fmp_news_scraper.py", line 66, in clean_and_save
+    existing_df = pd.read_csv(output_path)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1898, in _make_engine
+    return mapping[engine](f, **self.options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 93, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pandas/_libs/parsers.pyx", line 581, in pandas._libs.parsers.TextReader.__cinit__
+pandas.errors.EmptyDataError: No columns to parse from file

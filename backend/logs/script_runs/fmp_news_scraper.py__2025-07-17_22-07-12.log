@@ -1,0 +1,48 @@
+✅ Saved (2) total articles for AAPL ➜ data/fmp_news/AAPL_news.csv
+✅ Saved (2) total articles for MSFT ➜ data/fmp_news/MSFT_news.csv
+✅ Saved (10) total articles for TSLA ➜ data/fmp_news/TSLA_news.csv
+✅ Saved (4) total articles for AMZN ➜ data/fmp_news/AMZN_news.csv
+✅ Saved (2) total articles for NVDA ➜ data/fmp_news/NVDA_news.csv
+⚠️ No news returned for GOOGL
+✅ Saved (2) total articles for NFLX ➜ data/fmp_news/NFLX_news.csv
+✅ Saved (4) total articles for META ➜ data/fmp_news/META_news.csv
+⚠️ No news returned for INTC
+⚠️ No news returned for RKT
+⚠️ No news returned for NKE
+✅ Saved (2) total articles for BABA ➜ data/fmp_news/BABA_news.csv
+⚠️ No news returned for XOM
+⚠️ No news returned for F
+✅ Saved (2) total articles for JPM ➜ data/fmp_news/JPM_news.csv
+✅ Saved (2) total articles for AVGO ➜ data/fmp_news/AVGO_news.csv
+⚠️ No news returned for BRK.A
+⚠️ No news returned for BRK-A
+⚠️ No news returned for WMT
+⚠️ No news returned for V
+⚠️ No news returned for MA
+⚠️ No news returned for ORCL
+⚠️ No news returned for UNH
+⚠️ No news returned for JNJ
+
+Traceback (most recent call last):
+  File "/app/scripts/fmp_news_scraper.py", line 85, in <module>
+    clean_and_save(df, ticker)
+  File "/app/scripts/fmp_news_scraper.py", line 66, in clean_and_save
+    existing_df = pd.read_csv(output_path)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1898, in _make_engine
+    return mapping[engine](f, **self.options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 93, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pandas/_libs/parsers.pyx", line 581, in pandas._libs.parsers.TextReader.__cinit__
+pandas.errors.EmptyDataError: No columns to parse from file

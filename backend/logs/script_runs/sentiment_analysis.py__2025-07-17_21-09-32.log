@@ -1,0 +1,12 @@
+⏳ Loading FinBERT...
+⏳ Loading RoBERTa...
+✅ All models loaded.
+
+Device set to use cpu
+Device set to use cpu
+
+🔄 data/raw_news:   0%|          | 0/132 [00:00<?, ?it/s]
+                                                         
+
+🔄 data/raw_news:   0%|          | 0/132 [10:29<?, ?it/s]
+🔄 data/raw_news:   1%|          | 1/132 [10:29<22:53:32, 629.11s/it]

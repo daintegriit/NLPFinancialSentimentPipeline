@@ -1,0 +1,28 @@
+✅ Saved (2) total articles for AAPL ➜ data/fmp_news/AAPL_news.csv
+✅ Saved (2) total articles for MSFT ➜ data/fmp_news/MSFT_news.csv
+✅ Saved (10) total articles for TSLA ➜ data/fmp_news/TSLA_news.csv
+✅ Saved (4) total articles for AMZN ➜ data/fmp_news/AMZN_news.csv
+
+Traceback (most recent call last):
+  File "/app/scripts/fmp_news_scraper.py", line 85, in <module>
+    clean_and_save(df, ticker)
+  File "/app/scripts/fmp_news_scraper.py", line 66, in clean_and_save
+    existing_df = pd.read_csv(output_path)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1898, in _make_engine
+    return mapping[engine](f, **self.options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 93, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pandas/_libs/parsers.pyx", line 581, in pandas._libs.parsers.TextReader.__cinit__
+pandas.errors.EmptyDataError: No columns to parse from file

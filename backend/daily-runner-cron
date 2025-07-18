@@ -1,0 +1,10 @@
+SHELL=/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+# Run daily at 7:00 AM Eastern (cron uses system time, set TZ accordingly)
+# 0 7 * * * /usr/local/bin/python3 /Users/darrylcarp/Coding/VSCodeProjects/NLPFinancialNewsSentimentAnalyzer/backend/daily_runner.py >> /Users/darrylcarp/Coding/VSCodeProjects/NLPFinancialNewsSentimentAnalyzer/backend/daily_runner.log 2>&1
+# 0 6 * * * /usr/local/bin/python3 /Users/darrylcarp/Coding/VSCodeProjects/NLPFinancialNewsSentimentAnalyzer/backend/daily_runner.py >> /Users/darrylcarp/Coding/VSCodeProjects/NLPFinancialNewsSentimentAnalyzer/backend/daily_runner.log 2>&1
+# 0 7 * * * /usr/local/bin/python3 /Users/darrylcarp/Coding/VSCodeProjects/NLPFinancialNewsSentimentAnalyzer/backend/daily_runner.py >> /Users/darrylcarp/Coding/VSCodeProjects/NLPFinancialNewsSentimentAnalyzer/backend/daily_runner.log 2>&1
+# 30 12 * * * /usr/local/bin/python3 /Users/darrylcarp/Coding/VSCodeProjects/NLPFinancialNewsSentimentAnalyzer/backend/daily_runner.py >> /Users/darrylcarp/Coding/VSCodeProjects/NLPFinancialNewsSentimentAnalyzer/backend/daily_runner.log 2>&1
+# 0 */2 * * * root python3 /app/daily_runner.py >> /app/daily_runner.log 2>&1
+# * * * * * root python3 /app/daily_runner.py >> /app/daily_runner.log 2>&1
