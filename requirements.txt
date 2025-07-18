@@ -1,7 +1,16 @@
+fastapi
+uvicorn
 pandas
+numpy
 feedparser
 transformers
 torch
 tqdm
+rich
+pytz
 matplotlib
 seaborn
+snscrape
+python-dotenv
+yfinance
+scikit-learn
